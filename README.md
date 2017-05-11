@@ -1,2 +1,0 @@
-# invertips
-GitHub Pages
